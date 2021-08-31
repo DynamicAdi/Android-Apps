@@ -39,5 +39,5 @@ label1.pack()
 label2 = tk.Label(astro, font = f)
 label2.pack()
 
-
+ 
 astro.mainloop()
